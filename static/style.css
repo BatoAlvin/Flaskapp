@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+   background-color: white;
+    }
+.name{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}    
+.location{
+    margin-left: 18px;
+    margin-bottom: 20px; 
+}
+.hobby{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
